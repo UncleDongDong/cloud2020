@@ -1,2 +1,2 @@
 # cloud2020
-study springckoud
+study springcloud
